@@ -8,3 +8,5 @@
 </ul>
 <br>
 
+![Captura de tela 2024-05-29 153118](https://github.com/SandynellyDiniz/clock/assets/160080540/52f80750-9bcd-445a-a60b-6bb6a6bdfffd)
+
